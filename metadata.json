@@ -1,0 +1,6 @@
+{
+  "name": "HireNiche",
+  "description": "Discipline-first career platform connecting specialists across Data Analytics, Web Development, Digital Marketing, Design, Finance, Sales, HR, and Content Writing with curated Indian roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
